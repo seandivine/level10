@@ -1,0 +1,10 @@
+apple
+guava
+lemon
+grape
+pineapple
+tangerine
+orange
+durian
+grapefruit
+tomato
